@@ -1,7 +1,8 @@
-# Sf-Js-Colleciton
+# Sf-Js-Collection
 
 This is my first Npm package.
-It indeted to handle Symfony collectionstill in beta. No support accepted except validated beta tester.
+It indeted to handle Symfony collection.This still in beta test.
+No support accepted except validated beta tester.
 
 Validated beta tester:
 - @pow3rr3d 
